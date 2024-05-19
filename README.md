@@ -3,6 +3,8 @@
 ## Overview
 This is a prototype for a 3D Cup Shuffle game developed in Unity. The player needs to guess under which cup the coin is hidden after shuffling. This project was created to participate in the **[Oficina Jam - Mai 2024](https://itch.io/jam/oficina-jam-mai-2024)**, with the theme "Coins". This prototype is not finalized.
 
+https://github.com/beater-studios/cup-shuffle/assets/16526901/c7da76c4-f48b-4adb-a6ff-43f8288f5aeb
+
 ## Features
 - **Cup Shuffling:** Cups shuffle in a parabolic motion.
 - **Player Interaction:** Players can select a cup to reveal and check if their guess is correct (an object to be found inside the cup was not implemented).
